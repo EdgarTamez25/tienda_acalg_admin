@@ -1,2 +1,2 @@
-# tienda_acalg_admin
-ADMINISTRADOR DE TIENDA PARA PRODUCCION
+# Surtimedix Admin
+
